@@ -2,7 +2,7 @@
 Script written in Python with Selenium framework to find the cheapest flight. All data is exported to an Excel sheet and an additional Email is sent with the cheapest flight details.
 
 UI test case for Booking.com:
-Search for the cheapest flight for specific data:
+Search for the cheapest flight for specific data.
 
 ## Steps to reproduce:
 1. Go to the website [http://booking.com](http://booking.com)
