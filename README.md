@@ -22,8 +22,8 @@ Search for the cheapest flight for specific data.
 * Choose arrival date from today (in days): **4** 
 
 4. Press the "search" button.
-5. Specify the location in the Export_Data.py file, where to save the found data in xlsx format.
-6. If you would like to receive an Email with the best score, please enter your Gmail details in the Export_Data.py file.
+5. Specify the location in the **Export_Data.py** file, where to save the found data in xlsx format.
+6. If you would like to receive an Email with the best score, please enter your Gmail details in the **Export_Data.py** file.
 
 ## Expected results:
 
